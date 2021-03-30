@@ -18,6 +18,9 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
 
+/**
+ *
+ */
 public class SolidityFunctionWrapperGeneratorTest  {
 
     protected String tempDirPath =  new File("src/test/java/").getAbsolutePath();

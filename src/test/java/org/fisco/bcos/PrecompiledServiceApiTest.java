@@ -8,6 +8,9 @@ import org.fisco.bcos.web3j.protocol.Web3j;
 import org.junit.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 
+/**
+ *
+ */
 public class PrecompiledServiceApiTest extends BaseTest {
 
     @Autowired Web3j web3j;
